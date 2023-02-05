@@ -1,5 +1,5 @@
 # Project: Machine-learning based tracking of anatomical structures in intubation videos
-Machine learning based tracking of anatomical structures in intubation videos was carried out at the TUHH. 
+Machine learning based tracking of anatomical structures in intubation videos research work was carried out at the TUHH. 
 
 # Abstract
 Airway management problems and airway-related adverse events are the main causes
